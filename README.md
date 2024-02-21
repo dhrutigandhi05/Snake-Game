@@ -2,7 +2,6 @@
 Welcome to the Snake Game! This Python-based project brings the classic Snake game to life using the pygame library. Navigate the snake around the screen, eat food to grow longer, and avoid hitting the walls or yourself. This game includes customizable difficulty levels to provide a challenge for players of all skill levels.
 
 Features:
-
 Customizable Difficulty Levels: Choose between Easy, Medium, and Hard to adjust the snake's speed.
 Scoring System: Keep track of your score as you eat food and grow longer.
 Game Over Conditions: The game ends when you hit the walls or yourself.
